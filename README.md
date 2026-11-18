@@ -22,19 +22,19 @@ The application provides an interactive interface where users can enter flower m
 ## 🖥️ Application Preview
 
 ### Home Dashboard
-![Home Dashboard](screenshots/01_Home_Dashboard.png)
+![Home Dashboard](Screenshots/01_Home_Dashboard.png)
 
 ### Flower Prediction
-![Flower Prediction](screenshots/02_Flower_Prediction.png)
+![Flower Prediction](Screenshots/02_Flower_Prediction.png)
 
 ### Model Performance
-![Model Performance](screenshots/03_Model_Accuracy_Loss.png)
+![Model Performance](Screenshots/03_Model_Accuracy_Loss.png)
 
 ### Confusion Matrix and Classification Report
-![Confusion Matrix](screenshots/04_Confusion_Matrix.png)
+![Confusion Matrix](Screenshots/04_Confusion_Matrix.png)
 
 ### ANN Architecture
-![ANN Architecture](screenshots/05_ANN_Architecture.png)
+![ANN Architecture](Screenshots/05_ANN_Architecture.png)
 
 ## 🧠 ANN Architecture
 
